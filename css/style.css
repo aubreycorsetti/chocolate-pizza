@@ -1,6 +1,6 @@
 header {
   height: 150px;
-  width: 80%;
+  width: 901px;
   margin: auto;
   display:flex;
   justify-content: space-between;
@@ -38,7 +38,7 @@ header div img{
 }
 
 main{
-  width: 80%;
+  width: 901px;
   margin:auto;
 }
 
@@ -49,3 +49,12 @@ div form .img {
     top: 0px;
     z-index: -1;
   }
+
+  aside{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-image: url("../img/list-bg.png");
+  }
+
+  
