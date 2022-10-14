@@ -19,6 +19,10 @@ header div img{
   padding-right: 5px;
 }
 
+main img {
+  background-repeat: repeat-x;
+}
+
 .section1 h1{
   font-size: 32px;
  padding:0;
