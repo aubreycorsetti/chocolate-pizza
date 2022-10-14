@@ -19,11 +19,35 @@ header div img{
   padding-right: 5px;
 }
 
-.banner {
-  background-image: url("../img/hr-img.png");
-  background-repeat: repeat;
+h2{
+  font-size: 32px;
+  font-family: Tahoma, sans-serif; 
+  font-weight: bold;
 }
 
+.banner {
+  background-image: url("../img/hr-img.png");
+  background-repeat: repeat-x;
+}
+
+.printer{
+  display: flex;
+  justify-content: space-between;
+  padding-bottom:0.4 rem;
+}
+
+.printer h4{
+  font-size: 10px;
+  letter-spacing: 1.5px;
+}
+.print{
+  display: flex;
+  
+}
+.print p{
+  font-size: 10px;
+  padding-left: 0.2rem;
+}
 
 .section1 h1{
   font-size: 32px;
