@@ -1,0 +1,19 @@
+header {
+  height: 150px;
+  width: 80%;
+  margin: auto;
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+header div {
+  display:flex;
+  align-content: center;
+}
+
+main{
+  width: 80%;
+  margin:auto;
+}
