@@ -45,11 +45,3 @@ main{
   width: 80%;
   margin:auto;
 }
-
-div form .img {
-    background-image: url("img/list-bg.png");
-    position: absolute;
-    left: 0px;
-    top: 0px;
-    z-index: -1;
-  }
