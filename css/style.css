@@ -11,6 +11,30 @@ header {
 header div {
   display:flex;
   align-content: center;
+  align-items: center;
+  
+}
+
+header div img{
+  padding-right: 5px;
+}
+
+.section1 h1{
+  font-size: 32px;
+ padding:0;
+ margin:0;
+ font-family: 'Yellowtail', cursive;
+
+}
+
+.section1 h3{
+  font-size: 8px;
+  padding:0;
+  margin:0;
+ }
+
+#spacer{
+  width: 10px;
 }
 
 main{
