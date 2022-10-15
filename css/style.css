@@ -67,6 +67,17 @@ h2{
   width: 10px;
 }
 
+.section3 img {
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+
+.section3 p {
+  padding: 1rem;
+  font-size: 18px;
+  line-height: 26pt;
+}
+
 main{
   width: 901px;
   margin:auto;
@@ -90,9 +101,32 @@ div form .img {
   }
 
   
-footer p {
+footer {
   text-align: center;
   margin-bottom: 1rem;
   margin-top: 1rem;
 }
 
+.bio {
+  display: flex;
+  align-items: center;
+}
+
+.share {
+  background-color: rgba(255, 68, 0, 0.699);
+  color: white;
+  width: 8rem;
+  text-align: center;
+  padding: 10px;
+  margin-left: 4rem;
+
+}
+
+.bio h3 {
+  font-weight: bold;
+  padding-bottom: 1rem;
+}
+
+.van {
+  padding-left: 1.5rem;
+}
