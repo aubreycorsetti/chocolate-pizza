@@ -1,5 +1,5 @@
 header {
-  height: 150px;
+  height: 100px;
   width: 901px;
   margin: auto;
   display:flex;
@@ -27,7 +27,9 @@ h2{
 
 .banner {
   background-image: url("../img/hr-img.png");
-  background-repeat: repeat-x;
+  background-repeat: repeat;
+  height: 10px;
+  margin-bottom: 3rem;
 }
 
 .printer{
