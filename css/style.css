@@ -25,9 +25,11 @@ h2{
   font-weight: bold;
 }
 
-.banner {
+.dashed-line {
   background-image: url("../img/hr-img.png");
   background-repeat: repeat-x;
+  padding: 6px;
+  margin-bottom: 25px;
 }
 
 .printer{
