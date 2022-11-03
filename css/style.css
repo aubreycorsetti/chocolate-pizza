@@ -32,6 +32,30 @@ h2{
   margin-bottom: 25px;
 }
 
+.separator{
+  display: flex;
+  align-items: center;
+}
+
+.separator h2{
+  padding: 0 2rem; /* creates the space */
+}
+
+.separator .line1{
+  flex: 1;
+  height: 2px;
+  background-color: grey;
+  background-image: linear-gradient(to right, rgb(255, 255, 255), rgb(123, 111, 111));
+
+}
+.separator .line2{
+  flex: 1;
+  height: 2px;
+  background-color: grey;
+  background-image: linear-gradient(to left, rgb(255, 255, 255), rgb(123, 111, 111));
+
+}
+
 .printer{
   display: flex;
   justify-content: space-between;
