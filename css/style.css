@@ -1,5 +1,5 @@
 header {
-  height: 150px;
+  height: 100px;
   width: 901px;
   margin: auto;
   display:flex;
@@ -27,6 +27,7 @@ h2{
 
 .dashed-line {
   background-image: url("../img/hr-img.png");
+
   background-repeat: repeat-x;
   padding: 6px;
   margin-bottom: 25px;
